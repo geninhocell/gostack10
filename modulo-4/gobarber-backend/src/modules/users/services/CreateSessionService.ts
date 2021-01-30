@@ -51,8 +51,6 @@ export default class CreateSessionService {
       expiresIn: authConfig.jwt.expiresIn,
     });
 
-    user.password = '';
-
     return { user, token };
   }
 }
