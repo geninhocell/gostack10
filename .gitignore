@@ -10,6 +10,6 @@ build/
 
 coverage/
 
-tmp/*
+tmp/uploads/*
 
 !tmp/.gitkeep
