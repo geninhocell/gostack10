@@ -1,3 +1,6 @@
+/**
+ * Registro de todos providers, tanto dos modulos, bem como dos globais.
+ */
 import { container } from 'tsyringe';
 
 import '@modules/users/providers';
