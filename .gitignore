@@ -13,3 +13,5 @@ coverage/
 tmp/uploads/*
 
 !tmp/.gitkeep
+
+ormconfig.json
