@@ -12,7 +12,7 @@ export const Container = styled.div<ContainerProps>`
   background: #212329;
   border-radius: 10px;
 
-  padding: 16px;
+  padding: 12px;
   width: 100%;
 
   border: 2px solid #232129;
