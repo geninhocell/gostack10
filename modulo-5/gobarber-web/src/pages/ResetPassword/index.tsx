@@ -45,6 +45,7 @@ const ResetPassword: React.FC = () => {
           abortEarly: false,
         });
 
+        // params
         const token = location.search.replace('?token=', '');
 
         if (!token) {
